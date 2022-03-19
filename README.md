@@ -1,4 +1,4 @@
-# vue-ecomm
+# vue-ecomm using mock store api
 
 ## Project setup
 ```
